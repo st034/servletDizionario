@@ -25,10 +25,13 @@ public class App extends HttpServlet{
     }
 
     public void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException{
-        // Setting up the content type of web page      
+       // Setting up the content type of web page      
         res.setContentType("text/html");
-        // Writing the message on the web page      
-        PrintWriter out = res.getWriter();      
+        // Writing the message on the web page
+        PrintWriter out = res.getWriter();   
+        if(req.getParameter("mastroiannim").equals("ciao")){
+            out.println("<p>"+"mastroiannim"+"</p>");
+        }         
         out.println("<h1>" + mymsg + "</h1>");      
         out.println("<p>" + "Hello Friends!" + "</p>");
     }
