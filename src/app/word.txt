@@ -1,21 +1,13 @@
-parolaa
--sinonimi
--contrari
-pappa
--sininimi
--contrari
-pola
--culo
--casa
-pappa
--cibo
--muori di fame
-ciao
--saluto
--non salutoza
+cacca
+-puzza
+-nonpuzza
+nonna
+-vecchia
+-nonvecchia
 casa
--residenza
--non residenza
-ciao
--saluto
--non salutoza
+-puzza
+-nonpuzza
+nonna
+-vecchia
+-nonvecchia
+
