@@ -1,0 +1,21 @@
+parolaa
+-sinonimi
+-contrari
+pappa
+-sininimi
+-contrari
+pola
+-culo
+-casa
+pappa
+-cibo
+-muori di fame
+ciao
+-saluto
+-non salutoza
+casa
+-residenza
+-non residenza
+ciao
+-saluto
+-non salutoza
